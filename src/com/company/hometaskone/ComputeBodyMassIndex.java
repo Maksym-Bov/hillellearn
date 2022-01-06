@@ -1,4 +1,4 @@
-package com.company;
+package com.company.hometaskone;
 
 import java.util.Scanner;
 
@@ -9,9 +9,9 @@ public class ComputeBodyMassIndex {
         Scanner scanner = new Scanner(System.in);
         final  int NUMBERTIMES = 703;
 
-        System.out.println("Input weight in pounds: ");
+        System.out.print("Input weight in pounds: ");
         double weightPounds = scanner.nextInt();
-        System.out.println("Input height in inches: ");
+        System.out.print("Input height in inches: ");
         double heightPounds = scanner.nextInt();
         double bodyMassIndex = (weightPounds / (heightPounds * heightPounds) ) * NUMBERTIMES ;
 

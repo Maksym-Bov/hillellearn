@@ -1,4 +1,4 @@
-package com.company;
+package com.company.hometaskone;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class ConvectorInchMeter {
         Scanner scanner = new Scanner(System.in);
         final double CHONEMETER = 0.0254;
 
-        System.out.println("Please, Input a value for inch:");
+        System.out.print("Please, Input a value for inch:");
         double inch = scanner.nextDouble();
         double resultConvector = inch * CHONEMETER;
         String  nameMeter = "meters";
