@@ -2,7 +2,7 @@ package com.company.hometaskone;
 
 import java.util.Scanner;
 
-public class UserSpeed {
+public class userSpeed {
 
     public static void main(String[] args) {
 

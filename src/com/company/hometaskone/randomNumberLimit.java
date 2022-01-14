@@ -2,7 +2,7 @@ package com.company.hometaskone;
 import java.util.Scanner;
 
 
-public class RandomNumberLimit {
+public class randomNumberLimit {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@ package com.company.hometaskone;
 
 import java.util.Scanner;
 
-public class ConvectorInchMeter {
+public class convectorInchMeter {
 
     public static void main(String[] args) {
 
