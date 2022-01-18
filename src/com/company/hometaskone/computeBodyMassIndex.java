@@ -2,7 +2,7 @@ package com.company.hometaskone;
 
 import java.util.Scanner;
 
-public class ComputeBodyMassIndex {
+public class computeBodyMassIndex {
 
     public static void main(String[] args) {
 

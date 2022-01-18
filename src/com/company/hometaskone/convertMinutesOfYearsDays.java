@@ -2,7 +2,7 @@ package com.company.hometaskone;
 
 import java.util.Scanner;
 
-public class ConvertMinutesOfYearsDays {
+public class convertMinutesOfYearsDays {
 
     public static void main(String[] args) {
 
